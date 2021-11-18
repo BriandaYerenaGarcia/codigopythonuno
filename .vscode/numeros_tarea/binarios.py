@@ -6,4 +6,4 @@ decimal = int(decimal)
 binario = bin(decimal)
 
 
-print(f"El binario del número{decimal} es {binario}")
+print(f"El binario del número {decimal} es {binario}")
